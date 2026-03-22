@@ -77,6 +77,7 @@ We encourage contributions from the community, so if you have a favorite develop
 #### Developer Utilities
 
   - [ToolHover](https://toolhover.com) - Free online developer utilities including JSON formatter & validator, password generator, hash
+  - [UtilShed](https://utilshed.com) - 100+ free online developer tools including JSON formatter, Base64 encoder, UUID generator, regex tester, hash generator, color converter, JWT decoder, markdown preview, and more. No signup, no ads, open source.
   generator, Base64 encoder/decoder, text counter & converter, and QR code generator.
 
 #### Integrated Development Environments (IDEs)
